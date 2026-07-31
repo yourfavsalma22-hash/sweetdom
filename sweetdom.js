@@ -13,8 +13,7 @@
 //      apender.appendChild(create)
 //      return create
 // }
-let seet ="h1"
- let apend = document.querySelector(".notes")
+
  
 const SweetDOM = {
     removeCLASS(ele, remove) {
@@ -36,4 +35,3 @@ const SweetDOM = {
         return create1;
     }
 };
-SweetDOM.create(seet,"ahmed",apend)
